@@ -1,0 +1,3 @@
+[submodule "cpp-quick"]
+	path = cpp-quick
+	url = https://github.com/antunonline/cpp-quick.git
